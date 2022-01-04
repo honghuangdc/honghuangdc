@@ -1,16 +1,13 @@
-### Hi there 👋
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**honghuangdc/honghuangdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Soybean, a front-end developer, my main skill stack : Vue3、 TypeScript、Vite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**languages and tools:**  
+
+Vue、React、TypeScript、Nodejs、Vite、Ionic、Uniapp.
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=honghuangdc&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
