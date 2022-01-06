@@ -1,11 +1,16 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h2 align="center">👋 Hello! I'm Soybean.</h2>
 
 
-I am Soybean, a front-end developer.
+I am a front-end developer, have more than three years of experience in web development.
+
+- 🔭 I’m currently working on **An admin template - Soybean Admin, based on Vue3+Vite+TypeScript+NaiveUI **
+- 🌱 I'm good at writing clean code, which has high quarlity standard.
+- 📫 How to reach me: Wechat(honghuangdc)、qq(2570172956)、gmail(honghuangdc@gmail.com)
+- ⚡ Recently, I have been interested in changing to a better job.
 
 **languages and tools:**  
 
-Vue、React、TypeScript、Nodejs、Vite、Ionic、Uniapp.
+Vue、React、TypeScript、Vite、Nodejs、Nuxt、Ionic、Uniapp.
 
 
 📈 my github stats
