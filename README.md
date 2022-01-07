@@ -10,7 +10,12 @@ I'm a front-end developer, have more than three years of experience in web devel
 
 **languages and tools:**  
 
-Vue、React、TypeScript、Vite、Nodejs、Nuxt、Ionic、Uniapp.
+- Vue、React.
+- TypeScript、Nodejs、deno.
+- Nuxt、Ionic、Uniapp、React Native.
+- Vite、Webpack.
+- Antv、Echarts、d3js.
+
 
 **open source project:**  
 - [soybean-admin](https://github.com/honghuangdc/soybean-admin): a beautiful vue admin template, based on Vue3、Vite、TypeScript、Naive UI.
