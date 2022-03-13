@@ -5,8 +5,7 @@ I'm a front-end developer, have more than three years of experience in web devel
 
 - 🔭 I’m currently working on **An admin template - Soybean Admin, based on Vue3+Vite+TypeScript+NaiveUI **
 - 🌱 I'm good at writing clean and high quality standard code.
-- 📫 How to reach me: Wechat(honghuangdc)、qq(2570172956)、gmail(honghuangdc@gmail.com)
-- ⚡ Recently, I have been interested in changing to a better job.
+- 📫 How to reach me: Wechat(honghuangdc)、qq(2570172956)、gmail(honghuangdc@gmail.com).
 
 **languages and tools:**  
 
