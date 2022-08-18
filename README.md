@@ -18,7 +18,6 @@ I'm a front-end developer, have more than three years of experience in web devel
 
 **open source project:**  
 - [soybean-admin](https://github.com/honghuangdc/soybean-admin): a beautiful vue admin template, based on Vue3、Vite、TypeScript、Naive UI.
-- [vite-ionic-vue](https://github.com/honghuangdc/vite-ionic-vue): a template to build hybrid app, based on Vue3、Vite、TypeScript、ionic6.
 
 
 📈  **My github stats**
