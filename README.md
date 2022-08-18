@@ -17,7 +17,7 @@ I'm a front-end developer, have more than three years of experience in web devel
 
 
 **open source project:**  
-- [soybean-admin](https://github.com/honghuangdc/soybean-admin): a beautiful vue admin template, based on Vue3、Vite、TypeScript、Naive UI.
+- [soybean-admin](https://github.com/honghuangdc/soybean-admin): A fresh and elegant admin template, based on Vue3、Vite3、TypeScript、NaiveUI and UnoCSS.
 
 
 📈  **My github stats**
