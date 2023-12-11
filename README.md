@@ -4,7 +4,7 @@
 
 I'm a front-end developer, very passionate about programming, good at specializing in front-end architecture.
 
-- 🔭 I’m currently working on (soybean-admin)[https://github.com/honghuangdc/soybean-admin], A fresh and elegant admin template, based on Vue3、Vite3、TypeScript、NaiveUI and UnoCSS.
+- 🔭 I’m currently working on [soybean-admin](https://github.com/honghuangdc/soybean-admin), A fresh and elegant admin template, based on Vue3、Vite3、TypeScript、NaiveUI and UnoCSS.
 - 🌱 I'm good at writing clean and high quality standard code.
 - 📫 How to reach me: Wechat(soybeanjs) email(soybeanjs@outlook.com).
 
