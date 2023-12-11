@@ -1,11 +1,14 @@
 <h2 align="center">👋 Hello! I'm Soybean.</h2>
 
 
-I'm a front-end developer, very passionate about programming.
+I'm a front-end developer, very passionate about programming, good at specializing in front-end architecture.
 
-- 🔭 I’m currently working on **An admin template - Soybean Admin, based on Vue3+Vite+TypeScript+NaiveUI **
+- 🔭 I’m currently working on (soybean-admin)[https://github.com/honghuangdc/soybean-admin], A fresh and elegant admin template, based on Vue3、Vite3、TypeScript、NaiveUI and UnoCSS.
 - 🌱 I'm good at writing clean and high quality standard code.
-- 📫 How to reach me: Wechat(soybeanjs) email(soybeanjs@outlook.com)
+- 📫 How to reach me: Wechat(soybeanjs) email(soybeanjs@outlook.com).
+
+> [!IMPORTANT]
+> Feel free to contact me if you have a front-end part-time job.
 
 **languages and tools:**  
 
@@ -18,7 +21,7 @@ I'm a front-end developer, very passionate about programming.
 
 **open source project:**  
 - [soybean-admin](https://github.com/honghuangdc/soybean-admin): A fresh and elegant admin template, based on Vue3、Vite3、TypeScript、NaiveUI and UnoCSS.
-- [@soybeanjs/cli](https://github.com/soybeanjs/cli): SoybeanJS's command lint tools
+- [soybeanjs-cli](https://github.com/soybeanjs/cli): SoybeanJS's command lint tools
   - create and verify git commit with Angular standard
   - integrat "rimraf", "npm-check-updates", "bumpp"
   - generate changlog by git commits
@@ -27,7 +30,7 @@ I'm a front-end developer, very passionate about programming.
 - [eslint-config](https://github.com/soybeanjs/eslint-config): SoybeanJS's eslint config preset: support TS, Vue, React, Solid, Svelte, Astro, etc.
 - [elegant-router](https://github.com/soybeanjs/elegant-router): A plugin to create router elegently, support Vue, React, Solid and Svelte.
 - [changelog](https://github.com/soybeanjs/changelog): Generate changelog from git tags and commits for github
-- [color-palette](https://github.com/soybeanjs/color-palette): The implementation of the color palette algorithm of the site (uicolors)[https://uicolors.app/create].
+- [color-palette](https://github.com/soybeanjs/color-palette): The implementation of the color palette algorithm of the site [uicolors](https://uicolors.app/create).
 - [prettier-plugin-json-sort](https://github.com/soybeanjs/prettier-plugin-json-sort): A prettier plugin to sort package.json and tsconfig.json.
 - [syncmirror](https://github.com/soybeanjs/syncmirror): sync npmmirror.
 - [githublogen](https://github.com/soybeanjs/changelog/tree/main/packages/githublogen): Generate changelog for GitHub releases.
