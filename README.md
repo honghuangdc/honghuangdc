@@ -1,5 +1,6 @@
 <h2 align="center">👋 Hello! I'm Soybean.</h2>
 
+## Introduction
 
 I'm a front-end developer, very passionate about programming, good at specializing in front-end architecture.
 
@@ -10,16 +11,21 @@ I'm a front-end developer, very passionate about programming, good at specializi
 > [!IMPORTANT]
 > Feel free to contact me if you have a front-end part-time job.
 
-**languages and tools:**  
+## Technology Stack
 
-- Vue, React, Solid, Svelte, Astro.
-- TypeScript, Nodejs, Bun.
-- Nuxt, Ionic, Uniapp, React Native.
-- Vite, Webpack, tsup, unbuild, tsx.
-- AntV, ECharts, Charts.js, d3, threejs.
+1. TypeScript, NodeJs, Bun, tsx.
+2. JS Framework: Vue3, React, Solid, Svelte, Astro, etc.
+3. SSR: Nuxt, Next, SolidStart, SvelteKit.
+4. Charts: AntV, ECharts, Charts.js, d3, Threejs.
+5. Tools:
+      - Vite: build web app
+      - unbuild, tsup: build TS library
+      - simple-git-hooks、lint-staged: git hooks
+      - code standards: [eslint-config](https://github.com/soybeanjs/eslint-flat-config)
+6. Cross Platforms: ReactNative, UniApp, Ionic(CapacitorJS), Tauri, Electron, etc.
 
+## open source project
 
-**open source project:**  
 - [soybean-admin](https://github.com/honghuangdc/soybean-admin): A fresh and elegant admin template, based on Vue3、Vite3、TypeScript、NaiveUI and UnoCSS.
 - [soybeanjs-cli](https://github.com/soybeanjs/cli): SoybeanJS's command lint tools
   - create and verify git commit with Angular standard
