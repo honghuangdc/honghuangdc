@@ -24,7 +24,7 @@ I'm a front-end developer, very passionate about programming, good at specializi
       - code standards: [eslint-config](https://github.com/soybeanjs/eslint-flat-config)
 6. Cross Platforms: ReactNative, UniApp, Ionic(CapacitorJS), Tauri, Electron, etc.
 
-## open source project
+## Open source project
 
 - [soybean-admin](https://github.com/honghuangdc/soybean-admin): A fresh and elegant admin template, based on Vue3、Vite3、TypeScript、NaiveUI and UnoCSS.
 - [soybeanjs-cli](https://github.com/soybeanjs/cli): SoybeanJS's command lint tools
