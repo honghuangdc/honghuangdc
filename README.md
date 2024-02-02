@@ -4,12 +4,12 @@
 
 I'm a front-end developer, very passionate about programming, good at specializing in front-end architecture.
 
-- 🔭 I’m currently working on [soybean-admin](https://github.com/honghuangdc/soybean-admin), A fresh and elegant admin template, based on Vue3、Vite3、TypeScript、NaiveUI and UnoCSS.
+- 🔭 I’m currently working on [soybean-admin](https://github.com/honghuangdc/soybean-admin), A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS.
 - 🌱 I'm good at writing clean and high quality standard code.
-- 📫 How to reach me: Wechat(soybeanjs) email(soybeanjs@outlook.com).
+- 📫 How to reach me: email(soybeanjs@outlook.com).
 
 > [!IMPORTANT]
-> Feel free to contact me if you have a front-end part-time job.
+> Business consulting, cooperation, project architecture, one-to-one guidance, etc.
 
 ## Technology Stack
 
@@ -32,7 +32,6 @@ I'm a front-end developer, very passionate about programming, good at specializi
   - integrat "rimraf", "npm-check-updates", "bumpp"
   - generate changlog by git commits
 - [create-soybean](https://github.com/soybeanjs/cli/tree/main/packages/create-soybean): SoybeanJS's command line to create different project templates (TS, Vue, React, pnpm monorepo)
-- [eslint-flat-config](https://github.com/soybeanjs/eslint-flat-config): SoybeanJS's eslint flat config preset: support TS, Vue, React, Solid, Svelte, Astro, etc.
 - [eslint-config](https://github.com/soybeanjs/eslint-config): SoybeanJS's eslint config preset: support TS, Vue, React, Solid, Svelte, Astro, etc.
 - [elegant-router](https://github.com/soybeanjs/elegant-router): A plugin to create router elegently, support Vue, React, Solid and Svelte.
 - [changelog](https://github.com/soybeanjs/changelog): Generate changelog from git tags and commits for github
