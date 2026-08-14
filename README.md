@@ -1,42 +1,79 @@
-<h2 align="center">👋 Hello! I'm Soybean.</h2>
+<h1 align="center">Hi, I'm Soybean 👋</h1>
 
-## Introduction
+<p align="center">
+  <strong>Front-end architect · Open-source maintainer · Founder of <a href="https://github.com/soybeanjs">SoybeanJS</a></strong>
+</p>
 
-I'm a front-end developer, very passionate about programming, good at specializing in front-end architecture.
+<p align="center">
+  <img src="https://img.shields.io/badge/Ecosystem_Stars-16.9K%2B-blue?style=flat-square&logo=github" alt="ecosystem stars" />
+  <img src="https://img.shields.io/badge/Followers-347%2B-green?style=flat-square&logo=github" alt="followers" />
+  <img src="https://img.shields.io/badge/Repos-50%2B-orange?style=flat-square&logo=github" alt="repos" />
+</p>
 
-- 🔭 I’m currently working on [soybean-admin](https://github.com/honghuangdc/soybean-admin), A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS.
-- 🌱 I'm good at writing clean and high quality standard code.
-- 📫 How to reach me: email(soybeanjs@outlook.com).
+## About Me
+
+I'm a front-end developer and architect, passionate about building **elegant, type-safe, production-ready** open-source projects for the Vue ecosystem. My flagship project **soybean-admin** (14.8K+ ⭐) powers 1000+ enterprise projects, maintained by the team I founded — [SoybeanJS](https://github.com/soybeanjs).
+
+I care about clean code, strong conventions and developer experience. TypeScript is my primary language across the stack — the front end and the back end (Node.js / Bun / Deno).
+
+## 🔭 Currently Building
+
+- **[soybean-ui](https://github.com/soybeanjs/soybean-ui)** — A powerful and elegant Vue 3 component system with headless primitives and ready-to-use styled wrappers (the shadcn/ui approach for Vue).
+- **[ubean](https://github.com/soybeanjs/ubean)** — The full-stack Vue framework for Vite: SSR, file-based routing and a type-safe request layer, all in TypeScript.
+- **Next-gen soybean-admin** — Rebuilding the flagship admin template on top of soybean-ui (see [soybean-unify](https://github.com/soybeanjs/soybean-unify)).
+- **AI-powered development** — Structuring framework conventions and coding standards into agent-ready [skills](https://github.com/soybeanjs/skills), exploring AI coding agents deeply integrated with the framework.
+
+## 🌟 Open Source
+
+<table>
+  <tr>
+    <td>
+
+**Flagship**
+
+- [soybean-admin](https://github.com/soybeanjs/soybean-admin) — Vue3 + Vite + TS + Pinia + NaiveUI + UnoCSS admin template. **14.8K+ ⭐ / 2.5K Fork**
+- [soybean-admin-antd](https://github.com/soybeanjs/soybean-admin-antd) — AntDesignVue edition
+- [soybean-admin-element-plus](https://github.com/soybeanjs/soybean-admin-element-plus) — Element Plus edition
+
+**UI System**
+
+- [soybean-ui](https://github.com/soybeanjs/soybean-ui) — headless primitives + styled wrappers for Vue3
+- [shadcn-theme](https://github.com/soybeanjs/shadcn-theme) — shadcn/ui-style theme generator
+- [unocss-shadcn](https://github.com/soybeanjs/unocss-shadcn) — shadcn-style UnoCSS preset
+
+    </td>
+    <td>
+
+**Framework**
+
+- [ubean](https://github.com/soybeanjs/ubean) — full-stack Vue framework for Vite
+- [hono-ssr](https://github.com/soybeanjs/hono-ssr) — SSR with Vite and Hono
+- [fetch](https://github.com/soybeanjs/fetch) — type-safe HTTP client on native fetch
+
+**Tooling**
+
+- [elegant-router](https://github.com/soybeanjs/elegant-router) — elegant file-based routing for Vue/React/Solid/Svelte
+- [eslint-config](https://github.com/soybeanjs/eslint-config) — ESLint flat config presets
+- [cli](https://github.com/soybeanjs/cli) · [oxc-config](https://github.com/soybeanjs/oxc-config) · [changelog](https://github.com/soybeanjs/changelog) · [create-soybean](https://github.com/soybeanjs/create-soybean)
+
+    </td>
+  </tr>
+</table>
+
+## 🛠 Tech Stack
+
+- **Language**: TypeScript (primary, full-stack), JavaScript
+- **Frameworks**: Vue3 (deep expertise), React, Solid, Svelte, Astro · SSR: Nuxt, Next, hono-ssr
+- **Build**: Vite / rolldown-vite, Webpack, Rollup, RSpack, oxc (oxlint / oxfmt), unbuild, tsup
+- **Styling & UI**: UnoCSS, Tailwind, headless components, design tokens, AntV / ECharts / D3 / Three.js
+- **Backend runtimes**: Node.js, Bun, Deno · Hono, SSR, RESTful API design
+- **Cross-platform**: Ionic (Capacitor), UniApp, React Native, Electron, Tauri — including native Android plugin development
+- **Engineering**: Monorepo (pnpm), ESLint flat config, simple-git-hooks, commitlint, CI/CD
+
+## 📫 Contact Me
+
+- **Email**: [soybeanjs@outlook.com](mailto:soybeanjs@outlook.com)
+- **WeChat**: honghuangdc
 
 > [!IMPORTANT]
-> Business consulting, cooperation, project architecture, one-to-one guidance, etc.
-
-## Technology Stack
-
-1. TypeScript, NodeJs, Bun, tsx.
-2. JS Framework: Vue3, React, Solid, Svelte, Astro, etc.
-3. SSR: Nuxt, Next, SolidStart, SvelteKit.
-4. Charts: AntV, ECharts, Charts.js, d3, Threejs.
-5. Tools:
-      - Vite: build web app
-      - unbuild, tsup: build TS library
-      - simple-git-hooks、lint-staged: git hooks
-      - code standards: [eslint-config](https://github.com/soybeanjs/eslint-flat-config)
-6. Cross Platforms: ReactNative, UniApp, Ionic(CapacitorJS), Tauri, Electron, etc.
-
-## Open source project
-
-- [soybean-admin](https://github.com/honghuangdc/soybean-admin): A fresh and elegant admin template, based on Vue3、Vite3、TypeScript、NaiveUI and UnoCSS.
-- [soybeanjs-cli](https://github.com/soybeanjs/cli): SoybeanJS's command lint tools
-  - create and verify git commit with Angular standard
-  - integrat "rimraf", "npm-check-updates", "bumpp"
-  - generate changlog by git commits
-- [create-soybean](https://github.com/soybeanjs/cli/tree/main/packages/create-soybean): SoybeanJS's command line to create different project templates (TS, Vue, React, pnpm monorepo)
-- [eslint-config](https://github.com/soybeanjs/eslint-config): SoybeanJS's eslint config preset: support TS, Vue, React, Solid, Svelte, Astro, etc.
-- [elegant-router](https://github.com/soybeanjs/elegant-router): A plugin to create router elegently, support Vue, React, Solid and Svelte.
-- [changelog](https://github.com/soybeanjs/changelog): Generate changelog from git tags and commits for github
-- [color-palette](https://github.com/soybeanjs/color-palette): The implementation of the color palette algorithm of the site [uicolors](https://uicolors.app/create).
-- [prettier-plugin-json-sort](https://github.com/soybeanjs/prettier-plugin-json-sort): A prettier plugin to sort package.json and tsconfig.json.
-- [syncmirror](https://github.com/soybeanjs/syncmirror): sync npmmirror.
-- [githublogen](https://github.com/soybeanjs/changelog/tree/main/packages/githublogen): Generate changelog for GitHub releases.
-- [unocss-preset-design](https://github.com/soybeanjs/unocss-preset-design): A unocss plugin to create theme based CSS varaibles.
+> Business consulting, technical cooperation, project architecture and one-on-one guidance are welcome.
